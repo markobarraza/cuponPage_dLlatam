@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;    
+}
+/* Nav Bar */
+.my_bg_navbar{
+    background-color: #28A745;
+}
+.navbar .navbar-brand .img_navbar{
+    max-width: 86px;
+} 
+
+/* Card */
+.card .card-body .texto_principal{
+    font-weight: 300;
+    color: #212529;
+    margin: 0 0 11px 0;
+}
+
+.card .card-body .texto_secundario{
+    font-weight: 300;
+    margin: 0;
+    color: #707070;;
+}
+.precios .precio_normal{
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+    margin: 0 10px 0 0;
+}
+.precios .precio_oferta{
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+    margin: 0;
+}
+
+.bg_formulario{
+    background-color: #28A745;
+}
+
+.bg_formulario h2{
+    color: #ffffff;
+    font-size: 20px;
+}
+.bg_formulario .btn_formulario{
+    padding: 7px 40px;
+}
+
+/* Footer */
+.footer .img_footer{
+    max-width: 82px;
+}
+.footer p{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+}
+
